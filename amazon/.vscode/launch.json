@@ -1,0 +1,172 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinaryTreeVerticalTraversal",
+            "request": "launch",
+            "mainClass": "BinaryTreeVerticalTraversal",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountSmallerSelf",
+            "request": "launch",
+            "mainClass": "CountSmallerSelf",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ShortestDistanceFromBuilding",
+            "request": "launch",
+            "mainClass": "ShortestDistanceFromBuilding",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CoinChange",
+            "request": "launch",
+            "mainClass": "CoinChange",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LargestIncreasingPathMatrix",
+            "request": "launch",
+            "mainClass": "LargestIncreasingPathMatrix",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LargestBstSubtree",
+            "request": "launch",
+            "mainClass": "LargestBstSubtree",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TopKFrequentElement",
+            "request": "launch",
+            "mainClass": "TopKFrequentElement",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Twitter",
+            "request": "launch",
+            "mainClass": "Twitter",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RangeAddition",
+            "request": "launch",
+            "mainClass": "RangeAddition",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CustomDs",
+            "request": "launch",
+            "mainClass": "CustomDs",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LexographicalOrder",
+            "request": "launch",
+            "mainClass": "LexographicalOrder",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LongestConsecutiveSequence",
+            "request": "launch",
+            "mainClass": "LongestConsecutiveSequence",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaxWidthTree",
+            "request": "launch",
+            "mainClass": "MaxWidthTree",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringFromTree",
+            "request": "launch",
+            "mainClass": "StringFromTree",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MostFrequentSubtreeSum",
+            "request": "launch",
+            "mainClass": "MostFrequentSubtreeSum",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SerializeBinaryTree",
+            "request": "launch",
+            "mainClass": "SerializeBinaryTree",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LCABinaryTree",
+            "request": "launch",
+            "mainClass": "LCABinaryTree",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LCABinarySearchTree",
+            "request": "launch",
+            "mainClass": "LCABinarySearchTree",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinaryTreeRightView",
+            "request": "launch",
+            "mainClass": "BinaryTreeRightView",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StockBuy",
+            "request": "launch",
+            "mainClass": "StockBuy",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreeSum",
+            "request": "launch",
+            "mainClass": "ThreeSum",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TrappingRainWater",
+            "request": "launch",
+            "mainClass": "TrappingRainWater",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ValidParenthesis",
+            "request": "launch",
+            "mainClass": "ValidParenthesis",
+            "projectName": "amazon_3c9eb627"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ValidBST",
+            "request": "launch",
+            "mainClass": "ValidBST",
+            "projectName": "amazon_3c9eb627"
+        }
+    ]
+}
